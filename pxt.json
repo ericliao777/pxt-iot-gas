@@ -1,0 +1,23 @@
+{
+    "name": "iot-gas",
+    "version": "1.0.0",
+    "description": "Upload sensor data to Google Apps Script IoT Platform",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "public": true,
+    "icon": "./icon.png"
+}
