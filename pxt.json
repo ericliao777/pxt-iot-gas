@@ -3,9 +3,11 @@
     "version": "1.0.0",
     "description": "Upload sensor data to Google Apps Script IoT Platform",
     "license": "MIT",
+    "author": "你的名字",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microbit": "*"
     },
     "files": [
         "main.ts",
@@ -14,10 +16,9 @@
     "testFiles": [
         "test.ts"
     ],
+    "public": true,
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "public": true,
-    "icon": "./icon.png"
+    "preferredEditor": "tsprj"
 }
