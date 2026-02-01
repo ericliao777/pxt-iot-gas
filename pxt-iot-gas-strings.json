@@ -1,0 +1,21 @@
+{
+    "iotgas.setupPlatform|block": "設定 GAS 平台 ID %depId| API Key %key",
+    "iotgas.setDeviceId|block": "設定設備 ID %devId",
+    "iotgas.setupESP8266Pins|block": "設定 ESP8266 接腳 TX %tx| RX %rx",
+    "iotgas.connectWiFi|block": "連線 WiFi SSID %ssid| 密碼 %password",
+    "iotgas.isWiFiConnected|block": "WiFi 已連線",
+    "iotgas.disconnectWiFi|block": "中斷 WiFi 連線",
+    "iotgas.quickUpload|block": "快速上傳 欄位1 %f1| 欄位2 %f2|| 欄位3 %f3",
+    "iotgas.fullUpload|block": "完整上傳 F1 %f1| F2 %f2| F3 %f3|| F4 %f4| F5 %f5| F6 %f6| F7 %f7| F8 %f8",
+    "iotgas.setField|block": "設定欄位 %fieldNum| 數值 %value",
+    "iotgas.uploadStoredData|block": "上傳暫存數據",
+    "iotgas.clearStoredData|block": "清空暫存數據",
+    "iotgas.isPlatformSetup|block": "平台已設定",
+    "iotgas.showConnectionStatus|block": "顯示連線狀態",
+    "iotgas.showPlatformInfo|block": "顯示平台 ID",
+    "{id:category}IoT GAS": "IoT GAS",
+    "{id:group}setup": "設定",
+    "{id:group}wifi": "WiFi",
+    "{id:group}data": "數據上傳",
+    "{id:group}advanced": "進階"
+}
